@@ -1,0 +1,2 @@
+# only needed for train_seg.py / predicted building footprints (GPU recommended)
+segmentation-models-pytorch

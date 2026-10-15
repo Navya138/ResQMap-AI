@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+data/
+xbd/
+split_dataset/
+synthetic_xbd/
+models/
+results/

@@ -1,0 +1,13 @@
+torch>=2.1
+torchvision
+opencv-python-headless
+shapely>=2.0
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib
+tqdm
+streamlit
+folium
+streamlit-folium
